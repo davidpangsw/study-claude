@@ -1,0 +1,8 @@
+- If reviewImplementFile does not exist (see /develop for file paths):
+    - Make sure the git status is clean, if not, stop immediately!
+    - Checkout a new git feature branch named `feature/{taskId}`
+    - Implement what's planned in planFile
+- If reviewImplementFile exists:
+    - Make sure git is in the correct feature branch
+    - Read all the git changes we have made so far
+    - Read reviewImplementFile and make edits accordingly
