@@ -6,7 +6,7 @@ You are given a task file path as the command argument. Follow this workflow:
 
 1. Read the task file completely.
 2. Research on the internet for information relevant to the task.
-3. Assess the task's complexity：
+3. Assess the task's complexity:
    - **SIMPLE**:
      - single `function` that solves a single problem
      - straightforward implementations
@@ -16,7 +16,8 @@ You are given a task file path as the command argument. Follow this workflow:
      - Default case. When uncertain, it is complex
      - Any non-simple cases
      - If you made a plan, then it is complex.
-4. Perform the task according to the complexity
+4. Perform the task according to the complexity:
+
    a. **If the task is SIMPLE**:
       - Complete the task directly
       - Review what you have done and make sure no problem
