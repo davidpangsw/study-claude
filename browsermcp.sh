@@ -1,0 +1,1 @@
+claude mcp add --transport stdio browsermcp -- npx @browsermcp/mcp@latest
