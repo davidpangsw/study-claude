@@ -8,13 +8,20 @@ You are given a task file path as the command argument. Follow this workflow:
 2. Research on the internet for information relevant to the task.
 3. Assess the task's complexity:
    - **SIMPLE**:
-     - single `function` that solves a single problem
-     - straightforward implementations
-     - direct questions
+     - Must not involve more than one functions/methods
+     - Must not involve more than one files
+     - Must not involve more than one concepts
+     - Must not involve more than one relationships between multiple entities
+     - Must not involve more than one steps
 
    - **COMPLEX**:
-     - Default case. When uncertain, it is complex
-     - Any non-simple cases
+     - Default case. Any non-simple cases. When uncertain, it is complex
+     - Involve one or multiple functions/methods
+     - Involve one or multiple files
+     - Involve one or multiple concepts
+     - Involve one or multiple relationships between multiple entities
+     - Involve one or multiple steps
+     - If breaking the task into subtasks make tracking and verification easier, then the task is complex.
      - If you made a plan, then it is complex.
 4. Perform the task according to the complexity:
 
